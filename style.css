@@ -51,6 +51,7 @@ body {
     grid-template-areas:
       'A B B'
       'C C D';
+    grid-template-columns: 1fr 1fr 1fr;
   }
 
   main div:nth-child(1) {
